@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 ![GitHub metrics](https://metrics.lecoq.io/kevinharijanto)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kevinharijanto)  
-
-![Profile views](https://gpvc.arturio.dev/kevinharijanto)  
