@@ -1,17 +1,33 @@
-### Hi there 👋
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Kevin Harijanto</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/sriharikapu?style=social)](https://www.github.com/kevinharijanto)
+ <!-- About section -->
+---
+
+[![GitHub followers](https://img.shields.io/github/followers/kevinharijanto?style=social)](https://www.github.com/kevinharijanto)
 [![Linkedin Badge](https://img.shields.io/badge/-kevinharijanto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-harijanto/)](https://www.linkedin.com/in/kevin-harijanto/)
 [![Medium Badge](https://img.shields.io/badge/-kevinharijanto-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@kvnhr7)](https://medium.com/@kvnhr7)
+
+- 👀 Interested in Swift, Mobile App Development and Digital Media!
+- 🌱 Currently an Apple Developer Academy @ BINUS Cohort 5 Student
+
+## Tools & Technologies:
+
+<div style="white-space:nowrap;">
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+    <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+<br/>
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinharijanto&show_icons=true&count_private=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevinharijanto&theme=vue-dark)](https://git.io/streak-stats)
+
 
  <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinharijanto&show_icons=true&count_private=true&theme=tokyonight)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevinharijanto&theme=vue-dark)](https://git.io/streak-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/kevinharijanto) 
-
-<img alt="kevinharijanto Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinharijanto&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true" height="198px"/>
