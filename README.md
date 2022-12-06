@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinharijanto&show_icons=true&count_private=true&theme=tokyonight)
 
-![GitHub metrics](https://metrics.lecoq.io/kevinharijanto)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kevinharijanto)  
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevinharijanto&theme=vue-dark)](https://git.io/streak-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/kevinharijanto)  
