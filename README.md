@@ -20,13 +20,13 @@
     <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     <img height="35" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
-<br/>
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinharijanto&show_icons=true&count_private=true&theme=tokyonight)
+ <!-- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevinharijanto&theme=vue-dark)](https://git.io/streak-stats)
-
+-->
 
  <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
