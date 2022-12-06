@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevinharijanto&theme=vue-dark)](https://git.io/streak-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/kevinharijanto)  
+![GitHub metrics](https://metrics.lecoq.io/kevinharijanto) 
+
+<img alt="kevinharijanto Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinharijanto&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide_border=true" height="198px"/>
