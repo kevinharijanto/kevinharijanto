@@ -4,12 +4,16 @@
  <!-- About section -->
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/kevinharijanto?style=social)](https://www.github.com/kevinharijanto)
-[![Linkedin Badge](https://img.shields.io/badge/-kevinharijanto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-harijanto/)](https://www.linkedin.com/in/kevin-harijanto/)
-[![Medium Badge](https://img.shields.io/badge/-kevinharijanto-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@kvnhr7)](https://medium.com/@kvnhr7)
+<p align="center">
+<a href="https://github.com/kevinharijanto"><img src="https://img.shields.io/github/followers/kevinharijanto?style=social"></a>
+<a href="https://www.linkedin.com/in/kevin-harijanto/"><img src="https://img.shields.io/badge/-kevinharijanto-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://medium.com/@kvnhr7"><img src="https://img.shields.io/badge/-kevinharijanto-black?style=flat-square&logo=Medium&logoColor=white"></a>
+</p>
+
 
 - 👀 Interested in Swift, Mobile App Development and Digital Media!
-- 🌱 Currently an Apple Developer Academy @ BINUS Cohort 5 Student
+- 🌱 Currently at Apple Developer Academy @ BINUS Cohort 5 Student
+
 
 ## Tools & Technologies:
 
