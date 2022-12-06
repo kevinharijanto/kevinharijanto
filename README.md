@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kevinharijanto)  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gal-bert&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevinharijanto&theme=vue-dark)](https://git.io/streak-stats)
