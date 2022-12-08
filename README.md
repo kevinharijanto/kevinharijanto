@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://github.com/kevinharijanto"><img src="https://img.shields.io/github/followers/kevinharijanto?style=social"></a>
 <a href="https://www.linkedin.com/in/kevin-harijanto/"><img src="https://img.shields.io/badge/-kevinharijanto-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
-<a href="https://medium.com/@kvnhr7"><img src="https://img.shields.io/badge/-kevinharijanto-black?style=flat-square&logo=Medium&logoColor=white"></a>
+<a href="https://kevin-harijanto.medium.com"><img src="https://img.shields.io/badge/-kevinharijanto-black?style=flat-square&logo=Medium&logoColor=white"></a>
 </p>
 
 
